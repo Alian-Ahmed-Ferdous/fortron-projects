@@ -6,6 +6,8 @@ integer:: op
 real:: a, b,ans
 character:: step = "x"
 
+!for doing simple calculations
+
 do
     print *, "1.divide"
     print *, "2.multiple"
